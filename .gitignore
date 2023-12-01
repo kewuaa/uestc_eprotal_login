@@ -1,0 +1,4 @@
+bin/
+obj/
+zig-out/
+zig-cache/
